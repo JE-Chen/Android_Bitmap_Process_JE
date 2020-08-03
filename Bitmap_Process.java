@@ -1,4 +1,4 @@
-package com.je_chen.je_ocr;
+package com.example.bitmap_process;
 
 import android.content.Context;
 import android.content.res.Resources;
